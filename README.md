@@ -5,7 +5,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sudheesh-ss&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Sudheesh06102004&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   <a href="mailto:ssudheesh97432@gmail.com"><img src="https://img.shields.io/badge/Gmail-ssudheesh97432-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
@@ -15,29 +15,24 @@
 👨‍💻 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-javapublic class Sudheesh {
+js// 👨‍💻 About Sudheesh
+class Sudheesh {
 
-    String name        = "Sudheesh S S";
-    String location    = "Tamil Nadu, India";
-    String degree      = "B.E. Electronics & Communication Engineering";
-    String college     = "St. Joseph's College of Engineering";
-    double cgpa        = 8.75;
+  name              = "Sudheesh S S";
+  location          = "Tamil Nadu, India";
+  degree            = "B.E. Electronics & Communication Engineering";
+  college           = "St. Joseph's College of Engineering";
+  cgpa              = 8.75;
 
-    String[] stack = {
-        "Java", "HTML", "CSS", "JavaScript",
-        "Tailwind CSS", "Bootstrap", "SQL",
-        "Figma", "MATLAB", "Git"
-    };
+  stack             = ["Java", "HTML", "CSS", "JavaScript",
+                       "Tailwind CSS", "Bootstrap", "SQL",
+                       "Figma", "MATLAB", "Git"];
 
-    String[] currentlyLearning = {
-        "React.js", "Node.js", "REST APIs", "DSA"
-    };
+  currentlyLearning = ["React.js", "Node.js", "REST APIs", "DSA"];
 
-    String funFact = "I bridge hardware thinking with software building 🔌💻";
+  funFact           = "I bridge hardware thinking with software building 🔌💻";
 
-    String motto() {
-        return "Build. Learn. Iterate. Repeat. 🚀";
-    }
+  motto()           { return "Build. Learn. Iterate. Repeat. 🚀"; }
 }
 
 <br clear="right"/>
@@ -75,30 +70,30 @@ Show Image
 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=sudheesh-ss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudheesh-ss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=Sudheesh06102004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sudheesh06102004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheesh-ss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheesh-ss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudheesh06102004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudheesh06102004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sudheesh-ss&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Sudheesh06102004&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudheesh-ss&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudheesh06102004&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudheesh-ss&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sudheesh06102004&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 💼 Work Experience
@@ -194,19 +189,4 @@ Show Image
 "Build. Learn. Iterate. Repeat." 🚀
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>## Hi there 👋
-
-<!--
-**Sudheesh06102004/Sudheesh06102004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
