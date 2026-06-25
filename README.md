@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -47,7 +47,7 @@ class Sudheesh {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -75,7 +75,7 @@ class Sudheesh {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Sudheesh06102004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10">
@@ -88,7 +88,7 @@ class Sudheesh {
 
 ---
 
-## 🔥 Streak Stats
+## Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sudheesh06102004&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
@@ -96,7 +96,7 @@ class Sudheesh {
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudheesh06102004&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
@@ -104,7 +104,7 @@ class Sudheesh {
 
 ---
 
-## 🏅 Certifications & Badges
+## Certifications & Badges
 
 <div align="center">
 
@@ -121,7 +121,7 @@ class Sudheesh {
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 <details>
 <summary><b>🏢 Full Stack Developer Intern</b> — 2024</summary>
@@ -164,7 +164,7 @@ class Sudheesh {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -179,7 +179,7 @@ class Sudheesh {
 
 ---
 
-## 🏅 Achievements & Certifications
+## Achievements & Certifications
 
 <div align="center">
 
@@ -199,7 +199,7 @@ class Sudheesh {
 
 ---
 
-## 🎓 Education
+## Education
 
 <div align="center">
 
@@ -213,7 +213,7 @@ class Sudheesh {
 
 ---
 
-## 🧠 Currently Learning
+## Currently Learning
 
 ```
 🚀 React.js        →  Components, Hooks, State Management, React Router
@@ -235,7 +235,7 @@ class Sudheesh {
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
 
-*"Build. Learn. Iterate. Repeat." 🚀*
+*"Build. Learn. Iterate. Repeat."*
 
 </div>
 
