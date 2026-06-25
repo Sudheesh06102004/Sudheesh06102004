@@ -15,7 +15,7 @@
 👨‍💻 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-js// 👨‍💻 About Sudheesh
+// 👨‍💻 About Sudheesh
 class Sudheesh {
 
   name              = "Sudheesh S S";
@@ -30,9 +30,9 @@ class Sudheesh {
 
   currentlyLearning = ["React.js", "Node.js", "REST APIs", "DSA"];
 
-  funFact           = "I bridge hardware thinking with software building 🔌💻";
+  funFact           = "I bridge hardware thinking with software building";
 
-  motto()           { return "Build. Learn. Iterate. Repeat. 🚀"; }
+  motto()           { return "Build. Learn. Iterate. Repeat."; }
 }
 
 <br clear="right"/>
@@ -90,10 +90,17 @@ Show Image
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudheesh06102004&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
-🏆 Trophy Wall
+🏅 Certifications & Badges
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sudheesh06102004&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://img.shields.io/badge/NPTEL-Silver%20Elite-silver?style=for-the-badge&labelColor=0d1117&color=C0C0C0"/>
+  <img src="https://img.shields.io/badge/Java%20Programming-Infosys%20Springboard-0052CC?style=for-the-badge&labelColor=0d1117&color=0052CC"/>
+  <img src="https://img.shields.io/badge/Effective%20UX%20Design-Infosys%20Springboard-0052CC?style=for-the-badge&labelColor=0d1117&color=7B2FBE"/>
+  <img src="https://img.shields.io/badge/Intro%20to%20UI%2FUX-Le%20Wagon-FF5A5F?style=for-the-badge&labelColor=0d1117&color=FF5A5F"/>
+  <img src="https://img.shields.io/badge/Web%20Dev%20%28HTML%2FCSS%2FJS%29-Coursera%20%26%20Udemy-0056D2?style=for-the-badge&labelColor=0d1117&color=0056D2"/>
+  <img src="https://img.shields.io/badge/Programming%20in%20C-NPTEL%20%26%20Sololearn-brightgreen?style=for-the-badge&labelColor=0d1117&color=2E8B57"/>
+  <img src="https://img.shields.io/badge/IoT%20Introduction-NPTEL%20Silver%20Elite-orange?style=for-the-badge&labelColor=0d1117&color=FF8C00"/>
+  <img src="https://img.shields.io/badge/Image%20Processing-MathWorks%20MATLAB-0076A8?style=for-the-badge&labelColor=0d1117&color=0076A8"/>
 </div>
 
 💼 Work Experience
