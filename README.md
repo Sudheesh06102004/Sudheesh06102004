@@ -37,9 +37,9 @@ class Sudheesh {
 
   currentlyLearning = ["React.js", "Node.js", "REST APIs", "DSA"];
 
-  funFact           = "I bridge hardware thinking with software building 🔌💻";
+  funFact           = "I bridge hardware thinking with software building ";
 
-  motto()           { return "Build. Learn. Iterate. Repeat. 🚀"; }
+  motto()           { return "Build. Learn. Iterate. Repeat. "; }
 }
 ```
 
