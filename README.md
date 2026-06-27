@@ -29,7 +29,7 @@ class Sudheesh {
   location          = "Tamil Nadu, India";
   degree            = "B.E. Electronics & Communication Engineering";
   college           = "St. Joseph's College of Engineering";
-  cgpa              = 8.75;
+  cgpa              = 8.76;
 
   stack             = ["Java", "HTML", "CSS", "JavaScript",
                        "Tailwind CSS", "Bootstrap", "SQL",
