@@ -170,10 +170,10 @@ class Sudheesh {
 
 | Project | Stack | Highlights |
 |--------|-------|------------|
-| 🅿️ **Smart Parking Using Image Processing** | MATLAB, SVM, Image Processing | MATLAB-based system detecting vacant/occupied parking spots via thresholding & edge detection; real-time GUI with visual slot indicators; scalable low-cost solution reducing urban congestion |
-| 🍔 **Food Delivery App (UI/UX Design)** | Figma, Wireframing, Prototyping | Intuitive Figma prototype with smooth order customization, real-time tracking, and multiple payment options; clean, user-friendly navigation flow |
-| 🤖 **AI Spot** | HTML, CSS, JavaScript | Web platform consolidating a wide range of AI tools into a single accessible page; clean UI for seamless tool discovery without cross-site navigation |
-| 📡 **GWO-PowerGuard** | Grey Wolf Optimization, CR-WSNs | Adaptive power control framework using GWO to minimize interference to Primary Users while maximizing throughput and energy efficiency of Secondary Users in Cognitive Radio WSNs |
+| 🅿️ **Smart Parking Using Image Processing** | MATLAB, SVM, Image Processing | MATLAB-based system detecting vacant/occupied parking spots via thresholding & edge detection; real-time GUI with visual slot indicators; scalable low-cost solution reducing urban congestion. |
+| 🍔 **Food Delivery App (UI/UX Design)** | Figma, Wireframing, Prototyping | Intuitive Figma prototype with smooth order customization, real-time tracking, and multiple payment options; clean, user-friendly navigation flow. |
+| 🤖 **AI Spot** | HTML, CSS, JavaScript | Web platform consolidating a wide range of AI tools into a single accessible page; clean UI for seamless tool discovery without cross-site navigation. |
+| 📡 **GWO-PowerGuard** | Grey Wolf Optimization, CR-WSNs | Adaptive power control framework using GWO to minimize interference to Primary Users while maximizing throughput and energy efficiency of Secondary Users in Cognitive Radio WSNs. |
 
 </div>
 
