@@ -139,7 +139,7 @@ class Sudheesh {
 </details>
 
 <details>
-<summary><b>🎨 UI/UX Design Intern — AK Infopark</b> — 2024</summary>
+<summary><b>🎨 UI/UX Design Intern — AK Infopark</b> — 2025</summary>
 
 > ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
