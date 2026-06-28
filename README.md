@@ -124,7 +124,7 @@ class Sudheesh {
 ## Work Experience
 
 <details>
-<summary><b>🏢 Full Stack Developer Intern</b> — 2024</summary>
+<summary><b>🏢 Full Stack Developer Intern</b> — 2025</summary>
 
 > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 > ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -151,7 +151,7 @@ class Sudheesh {
 </details>
 
 <details>
-<summary><b>🌐 Web Development Intern — Ether Infotech</b> — 2023</summary>
+<summary><b>🌐 Web Development Intern — Ether Infotech</b> — 2024</summary>
 
 > ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 > ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
