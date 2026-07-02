@@ -9,9 +9,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sudheesh06102004&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Website-1E88E5?style=flat-square&logo=google-chrome&logoColor=white)](https://sudheesh-portfolio-green.vercel.app/)
 [![📧 Email](https://img.shields.io/badge/📧_Email-ssudheesh97432%40gmail.com-D14836?style=flat-square)](mailto:ssudheesh97432@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C853?style=flat-square&logo=vercel&logoColor=white)](https://sudheesh-portfolio-green.vercel.app/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
 </div>
