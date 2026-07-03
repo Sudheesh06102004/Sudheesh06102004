@@ -23,7 +23,7 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```js
-// Abo 
+// About 
 class Sudheesh {
 
   name              = "Sudheesh S S";
