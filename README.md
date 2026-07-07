@@ -27,7 +27,7 @@
 class Sudheesh {
 
   name              = "Sudheesh S S";
-  location          = "Tamil Nadu, Ind";
+  location          = "Tamil Nadu, Indi";
   degree            = "B.E. Electronics & Communication Engineering";
   college           = "St. Joseph's College of Engineering";
   cgpa              = 8.76;
