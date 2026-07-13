@@ -180,7 +180,7 @@ class Sudheesh {
 
 ---
 
-## Achievements & Certifications
+<!--## Achievements & Certifications
 
 <div align="center">
 
@@ -197,7 +197,7 @@ class Sudheesh {
 | 🔬 | **Technical Club Memberships** | Active member of **Optica** and **IETE** |
 
 </div>
-
+-->
 ---
 
 ## Education
