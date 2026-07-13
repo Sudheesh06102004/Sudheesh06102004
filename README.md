@@ -105,7 +105,7 @@ class Sudheesh {
 
 ---
 
-## Certifications & Badges
+<!--## Certifications & Badges
 
 <div align="center">
 
@@ -119,7 +119,7 @@ class Sudheesh {
 | 🖼️ | Image Processing with MATLAB — MathWorks |
 
 </div>
-
+-->
 ---
 
 ## Work Experience
