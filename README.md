@@ -165,7 +165,7 @@ class Sudheesh {
 
 ---
 
-## Featured Projects
+<!--## Featured Projects
 
 <div align="center">
 
@@ -177,7 +177,7 @@ class Sudheesh {
 | 📡 **GWO-PowerGuard** | Grey Wolf Optimization, CR-WSNs | Adaptive power control framework using GWO to minimize interference to Primary Users while maximizing throughput and energy efficiency of Secondary Users in Cognitive Radio WSNs. |
 
 </div>
-
+-->
 ---
 
 <!--## Achievements & Certifications
