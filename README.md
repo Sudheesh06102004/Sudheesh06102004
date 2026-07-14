@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sudheesh%20S%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Graduate%20%7C%20Aspiring%20Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=62&descSize=16" width="100%"/>
 
-<!--<div align="center">
+<div align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sudheesh+S+S+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%7C+UI%2FUX+Designer;ECE+Graduate+%7C+Problem+Solver;Building+Clean+%26+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 </div>
--->
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sudheesh06102004&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
@@ -20,7 +20,7 @@
 
 ## About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<!--<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>-->
 
 ```js
 // About Me
