@@ -120,7 +120,7 @@ class Sudheesh {
 
 </div>
 -->
----
+
 
 ## Work Experience
 
@@ -236,7 +236,7 @@ class Sudheesh {
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
 
-*"Build. Learn. Iterate. Repeat."*
+"Build. Learn. Iterate. Repeat."
 
 </div>
 
