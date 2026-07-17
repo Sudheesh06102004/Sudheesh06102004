@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sudheesh+S+S+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%7C+UI%2FUX+Designer;ECE+Graduate+%7C+Problem+Solver;Building+Clean+%26+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Sudheesh+S+S;Aspiring+Full+Stack+Developer+%7C+UI%2FUX+Designer;ECE+Graduate+%7C+Problem+Solver;Building+Clean+%26+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 </div>
 
