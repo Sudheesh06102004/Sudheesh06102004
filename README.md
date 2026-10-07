@@ -34,7 +34,7 @@ class Sudheesh {
 
   stack             = ["Java", "HTML", "CSS", "JavaScript",
                        "Tailwind CSS", "Bootstrap", "SQL",
-                       "Figma", "MATLAB", "Git"];
+                       "Figma", "MATLAB", "Git","React","SpringBoot","Ui/Ux Design"];
 
   currentlyLearning = ["React.js", "Node.js", "REST APIs", "DSA"];
 
@@ -97,12 +97,12 @@ class Sudheesh {
 
 ---
 
-## Activity Graph
+<!--## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudheesh06102004&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
-
+-->
 ---
 
 <!--## Certifications & Badges
@@ -122,7 +122,7 @@ class Sudheesh {
 -->
 
 
-## Work Experience
+<!--## Work Experience
 
 <details>
 <summary><b>🏢 Full Stack Developer Intern - Ether</b> — 2026</summary>
@@ -164,7 +164,7 @@ class Sudheesh {
 </details>
 
 ---
-
+-->
 <!--## Featured Projects
 
 <div align="center">
