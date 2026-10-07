@@ -207,8 +207,8 @@ class Sudheesh {
 | Degree | Institution | Year | Score |
 |--------|------------|------|-------|
 | 🎓 B.E. Electronics & Communication Engineering | St. Joseph's College of Engineering | 2022 – 2026 | CGPA: **8.76** |
-| 📘 HSC | Sri RamaKrishna BalaVidhya | — | **91.83%** |
-| 📗 SSLC | Sri RamaKrishna BalaVidhya | — | **86%** |
+| 📘 HSC | Sri RamaKrishna BalaVidhya | 2022 | **91.83%** |
+| 📗 SSLC | Sri RamaKrishna BalaVidhya | 2020 | **86%** |
 
 </div>
 
