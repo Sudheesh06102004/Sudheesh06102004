@@ -76,7 +76,7 @@ class Sudheesh {
 
 ---
 
-## GitHub Stat
+## GitHub Stats
 
 <div align="center">
   <a href="https://github-stats-extended.vercel.app/api?username=Sudheesh06102004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10">
